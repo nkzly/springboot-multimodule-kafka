@@ -2,7 +2,7 @@
 This project shows how to get a request, send it to kafka , listen kafka and writes to db
 
 **System requirements**  
-- JDK 8      
+- JDK 11      
 - Maven 
 - kafka server 
       
