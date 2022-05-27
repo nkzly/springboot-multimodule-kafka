@@ -1,7 +1,7 @@
 package com.cloudmore.task.kafka.converter;
 
 import com.cloudmore.task.kafka.data.EmployeeData;
-import model.Employee;
+import com.cloudmore.task.model.Employee;
 
 public class EmployeeConverter {
 

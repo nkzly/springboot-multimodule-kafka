@@ -1,6 +1,7 @@
 package com.cloudmore.task.kafka.config;
 
-import model.Employee;
+
+import com.cloudmore.task.model.Employee;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package model;
+package com.cloudmore.task.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
@@ -22,3 +22,4 @@ public class Employee {
     @JsonDeserialize(using = LocalDateTimeDeserializer.class)
     private LocalDateTime eventTime;
 }
+
